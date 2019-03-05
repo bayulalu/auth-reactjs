@@ -1,4 +1,4 @@
-pertama clone dulu  ,
+pertama clone ,
 setalah di colne jalankan perintah berikut : 
 1.npm install 
 2.npm start 
